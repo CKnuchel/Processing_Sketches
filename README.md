@@ -13,8 +13,8 @@ In this repo you will find everything I have learned in 5 days of processing.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
 <!--
+---
 [![](https://visitcount.itsvg.in/api?id=CKnuchel&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
 
