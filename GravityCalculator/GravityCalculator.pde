@@ -10,7 +10,8 @@ int index = 0;
 
 void setup() {
 
-  optionGravitation = getStringFromUser("Möchtest du eine eigene Gravitation verwenden? [j/n]"); //fragt ob die Gravitation geändert werden soll
+//fragt ob die Gravitation geändert werden soll
+  optionGravitation = getStringFromUser("Möchtest du eine eigene Gravitation verwenden? [j/n]"); 
 
   //ignoriert Leertasten eingaben vor dem Wort
   while (optionGravitation.charAt(index) == ' ') { 
