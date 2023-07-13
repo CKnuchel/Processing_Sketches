@@ -5,9 +5,6 @@ In this repo you will find everything I have learned in 5 days of processing.
 https://processing.org/
 
 # 💫 About Me:
-🔭 I’m currently working on completing different Udemy Courses to learn new and awesome stuff<br>
-📖 Current Course: https://www.udemy.com/course/the-complete-javascript-course/ <br>
-🌱 I’m currently learning JavaScript<br>
 💬 Ask me about: Anything, maybe i can help you 😊
 
 # 💻 Tech Stack:
